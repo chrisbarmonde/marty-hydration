@@ -1,0 +1,33 @@
+{
+    "globals": {
+        "require": false,
+        "window": false,
+        "setInterval": false,
+        "clearInterval": false,
+        "module": false,
+        "describe": false,
+        "it": false,
+        "before": false,
+        "after": false,
+        "afterEach": false,
+        "beforeEach": false,
+        "global": true,
+        "assert": true,
+        "expect": true,
+        "should": true
+    },
+    "browser": true,
+    "laxbreak": true,
+    "curly": true,
+    "indent": 4,
+    "latedef": true,
+    "newcap": true,
+    "noempty": true,
+    "sub": true,
+    "undef": true,
+    "unused": true,
+    "trailing": true,
+    "expr": true,
+    "esnext": true,
+    "maxlen": 119
+}

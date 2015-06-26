@@ -1,0 +1,33 @@
+{
+    "name": "embed-js",
+    "description": "Embeddable framework for Javascript components",
+    "version": "2.0.0",
+    "homepage": "https://instaedu.com/",
+    "private": true,
+    "authors": [
+        "Chris Barmonde <cbarmonde@chegg.com>"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git@github.com/instaedu/embed-js"
+    },
+    "engines": {
+        "node": "0.10.x",
+        "npm": "2.7.x"
+    },
+    "dependencies": {
+        "babelify": "^6.1.2",
+        "browserify": "^9.0.3",
+        "immutable": "3.6.4",
+        "marty": "^0.10.4",
+        "react": "^0.13.3",
+        "babel": "^5.4.7",
+        "gulp": "^3.8.11",
+        "gulp-babel": "^5.1.0",
+        "vinyl-source-stream": "^1.1.0",
+        "watchify": "2.4.0",
+        "react-tools": "^0.13.3"
+    },
+    "main": "index.js",
+    "license": "BSD"
+}
